@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, I'm Suryapratap!
 
-<!--
-**suryapratapsinghsuryavanshi/suryapratapsinghsuryavanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NodeJs.
+- 🌱 I’m currently learning Firebase.
+- 💬 Ask me about Web, Android, Linux, DevOps.
+- 📫 How to reach me: suryprtaps@gmail.com
+- 🌐 Find my portfolio at: https://suryapratap.netlify.app
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I always want to code something new.
+- 🕸️ Find my social community work at: https://localquiz.ml, https://bmvhostel.ml
+- 💻 Find my modern community work at: https://solverjs.ml, https://instadploader.ml, https://localide.ml, https://yourquerys.herokuapp.com, https://local-apis.herokuapp.com
+- Read my article at: https://auth.geeksforgeeks.org/user/mrsuryapratap/articles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em date="19/12/2021">Work is the best way to explore yourself.</em>
