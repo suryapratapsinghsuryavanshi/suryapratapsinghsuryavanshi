@@ -11,6 +11,6 @@
 - 📖 Read my article at: https://auth.geeksforgeeks.org/user/mrsuryapratap/articles
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I always want to code something new.
-- ♾️ Get to know about Suryapratap via npm, just type `npx suryapratap`.
+- ♾️ Get to know about me via npm, just type `npx suryapratap`.
 
 <em date="19/12/2021">Work is the best way to explore yourself.</br>-Mine</em>
