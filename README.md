@@ -7,7 +7,7 @@
 - 📫 How to reach me: dev@suryapratap.ml
 - 🌐 Find my portfolio at: https://suryapratap.ml
 - 🕸️ Find my social community work at: https://localquiz.ml, https://bmvhostel.ml
-- 💻 Find my modern community work at: https://solverjs.ml, https://instadploader.ml, https://localide.ml, https://yourquerys.herokuapp.com, https://local-apis.herokuapp.com
+- 💻 Find my modern community work at: https://solverjs.ml, https://instadploader.ml, https://localide.ml, https://yourquerys.herokuapp.com, https://local-apis.herokuapp.com, https://localshares.herokuapp.com/
 - 📖 Read my article at: https://auth.geeksforgeeks.org/user/mrsuryapratap/articles
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I always want to code something new.
