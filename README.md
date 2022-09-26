@@ -14,3 +14,5 @@
 - ♾️ Get to know about me via npm, just type `npx suryapratap`.
 
 <em date="19/12/2021">Work is the best way to explore yourself.</br>-Mine</em>
+
+[![@suryapratap's Holopin board](https://holopin.io/api/user/board?user=suryapratap)](https://holopin.io/@suryapratap)
